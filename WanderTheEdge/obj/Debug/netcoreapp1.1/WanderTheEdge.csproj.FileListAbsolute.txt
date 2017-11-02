@@ -1,0 +1,10 @@
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.deps.json
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.runtimeconfig.json
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.runtimeconfig.dev.json
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.dll
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.pdb
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.AssemblyInfo.cs
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.dll
+/Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.pdb
