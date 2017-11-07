@@ -8,11 +8,11 @@
 ## Description
 
 _This site is a personal travel blog that includes travel tips, travel planning tools, videos/photos, and blog entries.
-Users can create an account to save liked entries, view instagram photos from my travels, add specific destinations and activities to their travel itinerary, 
-see the budget needed (using the currency converter API) for specific places, and so on. The goal of this application is to extend its functionality to allow 
+Users can create an account to save liked entries, view instagram photos from my travels, add specific destinations and activities to their travel itinerary,
+see the budget needed (using the currency converter API) for specific places, and so on. The goal of this application is to extend its functionality to allow
 users to book flights using the SkyScanner API and book hotels/airbnb._
 
-MVP
+### MVP
 || Behavior  | Input  | Output  |
 |---|---|---|---|
 |1| User may view the most recent 3 posts on the home page | Home view  | Displays top 3 posts |
@@ -22,41 +22,26 @@ MVP
 |5| User may leave a comment on a post | Leave Comment | Comment is stored |
 |6| Site admin can add, edit, delete posts | Click `Add` or `Edit` or `Delete`  | View displays proper form |
 |7| User may create an account to save liked posts | Click `Save` | Pop up lets them know it has been saved - can continue reading or go to saved view |
-|8| Provide link to Expedia and/or AirBnb to book flight | Click link | Leads to corresponding website | 
+|8| Provide link to Expedia and/or AirBnb to book flight | Click link | Leads to corresponding website |
 
-Further Exploration:
+### Further Exploration:
 || Behavior  | Input  | Output  |
 |---|---|---|---|
 |1| User may create personal itineraries by adding destination and activities to their itinerary via click | Click `Add` | Pop up lets them know it has been saved - can continue reading or go to itinerary view |
 |2| User can book flights/hotels after completing an itinerary | Click `Book Flight` or `Book Hotel` | Leads to showing all flights via SkyScanner API or hotels via AirBnb or Expedia |
-|3| User can have tips for what credit cards to apply for to 
+|3| User can have tips for what credit cards to apply for to
 
-## Technical Specs
+### Technical Specs
 
-|| Behavior  | 
+|| Behavior  |
 |---|
-|1| Blog entries should be properly stored in the database |
-|2| Instagram API should be working properly |
-|3| Reviews content should be between 50 and 250 character (an error message should show if it is not)|
+|1| Blog entries should be properly stored in the database | |
+|2| Instagram API should be working properly | |
+|3| Reviews content should be between 50 and 250 character (an error message should show if it is not)| |
 
 
 ## Known Bugs
 None
-
-
-#### There are two options to create the database:
-##### 1. In MySQL
-`> CREATE DATABASE wander_edge;`<br>
-`> USE wander_edge;`<br>
-`> CREATE TABLE products (id serial PRIMARY KEY, name VARCHAR(255), cost INT, country_of_origin VARCHAR(255);`<br>
-`> CREATE TABLE reviews (id serial PRIMARY KEY, author VARCHAR(255), content_body TEXT, rating INT, product_id INT);`<br>
-
-##### 2. Import from the Cloned Repository
-* _Click 'Open start page' in MAMP_
-* _Under 'Tools', select 'phpMyAdmin'_
-* _Click 'Import' tab_
-* _Choose database file (from cloned repository folder)_
-* _Click 'Go'_
 
 ## Setup/Installation Requirements
 
@@ -66,6 +51,17 @@ None
 * _Set MySQL Port to 8889_
 * _Clone repository_
 
+##### Setup/Installation for Database
+* In your terminal, navigate to the project folder (where WanderTheEdge.csproj)
+* Enter `dotnet restore` in the command line
+* Enter `dotnet ef database restore` in the commande line
+
+##### Import from the Cloned Repository
+* _Click 'Open start page' in MAMP_
+* _Under 'Tools', select 'phpMyAdmin'_
+* _Click 'Import' tab_
+* _Choose database file (from cloned repository folder)_
+* _Click 'Go'_
 
 ## Technologies Used
 * _C#_
