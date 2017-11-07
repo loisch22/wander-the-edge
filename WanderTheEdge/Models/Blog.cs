@@ -21,9 +21,18 @@ namespace WanderTheEdge.Models
         public int BlogId { get; set; }
         public string BlogTitle { get; set; }
         public string BlogContent { get; set; }
+        public DateTime CreateDate { get; set; }
         public int LocationId { get; set; }
         public virtual Location Location { get; set; }
         public virtual ICollection<Comment> Comments { get; set; }
+
+        public Blog(string title, string content, int locationId)
+        {
+            this.BlogTitle = title;
+            this.BlogContent = content;
+            this.CreateDate = DateTime.Now;
+            this.LocationId = locationId;
+        }
 
     }
 }
