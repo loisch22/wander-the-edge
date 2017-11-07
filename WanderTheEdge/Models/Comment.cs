@@ -12,7 +12,6 @@ namespace WanderTheEdge.Models
 	[Table("Comments")]
 	public class Comment
 	{
-
 		[Key]
         public int CommentId { get; set; }
         public string CommentAuthor { get; set; }
