@@ -29,20 +29,24 @@ users to book flights using the SkyScanner API and book hotels/airbnb._
 |---|---|---|---|
 |1| User may create personal itineraries by adding destination and activities to their itinerary via click | Click `Add` | Pop up lets them know it has been saved - can continue reading or go to itinerary view |
 |2| User can book flights/hotels after completing an itinerary | Click `Book Flight` or `Book Hotel` | Leads to showing all flights via SkyScanner API or hotels via AirBnb or Expedia |
-|3| User can have tips for what credit cards to apply for to use for flights, hotels |
-|4| Incoporate user roles |
+|3| Incoporate user roles https://msdn.microsoft.com/en-us/library/t32yf0a9.aspx | User can create an acct and log in | User can save posts, add comments, edit profile |
 
 ### Technical Specs
 
 || Behavior  |
 |---|
-|1| Blog entries should be properly stored in the database | |
-|2| Instagram API should be working properly | |
-|3| Reviews content should be between 50 and 250 character (an error message should show if it is not)| |
+|1| Blog entries should be properly stored in the database | 
+|2| Instagram API should be working properly | 
+|3| Reviews content should be between 50 and 250 character (an error message should show if it is not)| 
+|4| Incorporate SASS, CSS grids
 
 
 ## Known Bugs
 None
+
+##SQL Design
+![](WanderTheEdge/wwwroot/images/WanderSQL.png)
+
 
 ## Setup/Installation Requirements
 

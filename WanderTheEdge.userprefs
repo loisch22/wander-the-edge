@@ -2,11 +2,11 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="wander-the-edge Status">
     <Files>
       <File FileName="WanderTheEdge/Models/Blog.cs" Line="34" Column="42" />
-      <File FileName="WanderTheEdge/Models/Location.cs" Line="19" Column="9" />
-      <File FileName="WanderTheEdge/Models/Comment.cs" Line="26" Column="1" />
+      <File FileName="WanderTheEdge/Models/Location.cs" Line="28" Column="1" />
+      <File FileName="WanderTheEdge/Models/Comment.cs" Line="18" Column="48" />
       <File FileName="WanderTheEdge/Views/Home/Index.cshtml" Line="5" Column="1" />
       <File FileName="WanderTheEdge/Views/Shared/_Layout.cshtml" Line="38" Column="86" />
-      <File FileName="WanderTheEdge/README.md" Line="112" Column="1" />
+      <File FileName="README.md" Line="117" Column="1" />
       <File FileName="wander-the-edge Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
