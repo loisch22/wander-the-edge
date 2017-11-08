@@ -44,7 +44,8 @@ users to book flights using the SkyScanner API and book hotels/airbnb._
 ## Known Bugs
 None
 
-##SQL Design
+## SQL Design
+
 ![](WanderTheEdge/wwwroot/images/WanderSQL.png)
 
 
