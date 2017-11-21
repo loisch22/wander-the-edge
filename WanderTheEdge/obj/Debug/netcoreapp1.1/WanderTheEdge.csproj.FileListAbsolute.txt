@@ -8,3 +8,13 @@
 /Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.AssemblyInfo.cs
 /Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.dll
 /Users/Guest/Desktop/WanderTheEdge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.pdb
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.deps.json
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.runtimeconfig.json
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.runtimeconfig.dev.json
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.csprojResolveAssemblyReference.cache
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.csproj.CoreCompileInputs.cache
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.AssemblyInfo.cs
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.dll
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/obj/Debug/netcoreapp1.1/WanderTheEdge.pdb
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.dll
+/Users/loischoi/Desktop/wander-the-edge/WanderTheEdge/bin/Debug/netcoreapp1.1/WanderTheEdge.pdb
